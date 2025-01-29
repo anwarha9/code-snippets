@@ -1,4 +1,4 @@
-# Code Snippets
+# 🛠️ Code Snippets
 A Collection of My WordPress / WooCommerce Code Snippets.
 
 ## Overview
@@ -9,7 +9,7 @@ It started as a simple local folder to keep my snippets organized. By sharing th
 
 ## How to Use These Snippets
 
-- Browse the snippets available in the repository.
-- Copy the snippet you want to use.
-- Paste it into the WordPress theme or plugin file, or use a **code snippets plugin** if you prefer not to modify theme files.
-- Customize the snippet as needed for your project.
+- **Browse** the snippets available in the repository.
+- **Copy** the snippet you want to use.
+- **Paste** it into the WordPress theme or plugin file, or use a **code snippets plugin** if you prefer not to modify theme files.
+- **Customize** the snippet as needed for your project.
